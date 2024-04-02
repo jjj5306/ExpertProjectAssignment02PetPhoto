@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Assignment02</string>
+    <string name="SelectText1">선택을 시작하겠습니까?</string>
+    <string name="SelectText2">좋아하는 애완동물은?</string>
+    <string name="CheckAgree">시작함</string>
+    <string name="Dog">개</string>
+    <string name="Cat">고양이</string>
+    <string name="Frog">개구리</string>
+    <string name="BtnSelect">선택 완료</string>
+    <string name="_2020039071">2020039071 조준화</string>
+</resources>
